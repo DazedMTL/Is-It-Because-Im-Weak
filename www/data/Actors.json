@@ -1,0 +1,147 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "syujinnkouwalk",
+        "classId": 2,
+        "equips": [
+            1,
+            3,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "rikkaface",
+        "traits": [
+            {
+                "code": 52,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Ricca",
+        "nickname": "",
+        "note": "<NogaugeTP>",
+        "profile": "The boxed daughter of the village vigilante. \nShe's determined to protect the village in place of her father."
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "syujinnkouwalk",
+        "classId": 3,
+        "equips": [
+            4,
+            1,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "sinaface",
+        "traits": [
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Sina",
+        "nickname": "",
+        "note": "<NogaugeTP>",
+        "profile": "The daughter of a small farmer in the village.\nShe lost her mother when she was young and now lives with her father."
+    },
+    {
+        "id": 3,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "syujinnkouwalk",
+        "classId": 4,
+        "equips": [
+            3,
+            2,
+            2,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "herenaface",
+        "traits": [
+            {
+                "code": 52,
+                "dataId": 3,
+                "value": 0
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Helena",
+        "nickname": "",
+        "note": "<NogaugeTP>",
+        "profile": "A newlywed wife, but her husband is on the battlefield.\nIt's been her childhood dream to become a kind mother."
+    },
+    {
+        "id": 4,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "syujinnkouwalk",
+        "classId": 5,
+        "equips": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "mikoface",
+        "traits": [
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Miko",
+        "nickname": "",
+        "note": "<NogaugeTP>",
+        "profile": "Mysterious girl. One day she appeared in the village.\nEven though she was young, she mastered offensive magic."
+    },
+    {
+        "id": 5,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "syujinnkouwalk2",
+        "classId": 1,
+        "equips": [
+            7,
+            5,
+            0
+        ],
+        "faceIndex": 6,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 51,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 52,
+                "dataId": 7,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Alto",
+        "nickname": "",
+        "note": "<NogaugeHP>\n<NogaugeMP>\n<NogaugeTP>",
+        "profile": ""
+    }
+]

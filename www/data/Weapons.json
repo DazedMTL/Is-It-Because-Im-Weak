@@ -1,0 +1,322 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 6,
+        "description": "It was made by Ricca's father, imitating the swords used in the national army. \nIt cost a fair amount of money, so the quality was decent.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "National Army Light Infantry Sword (Replica)",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 2
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 3,
+        "animationId": 1,
+        "description": "A wooden stick that looks like a magic wand. Used for physical attacks.\nMagic can be used without wands.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 101,
+        "name": "Magic wand stick",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 6
+    },
+    {
+        "id": 4,
+        "animationId": 11,
+        "description": "Sina's mother's memento from when she was a hunter. \nIt's a nice bow, but it's quite old.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 102,
+        "name": "Keepsake bow",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 7
+    },
+    {
+        "id": 5,
+        "animationId": 1,
+        "description": "A huge book that Miko always carries with her.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 121,
+        "name": "Giant book",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 3
+    },
+    {
+        "id": 6,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 7,
+        "animationId": 0,
+        "description": "Self-defense knives issued to government officials.",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 96,
+        "name": "Self defense knife",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 8,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 9,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 10,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    }
+]

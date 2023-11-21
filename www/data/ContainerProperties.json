@@ -1,0 +1,45 @@
+{
+    "Scene_Title": {
+        "WindowLayer": {
+            "0,Window_TitleCommand": {
+                "x": 533,
+                "y": 571,
+                "width": 240,
+                "height": 128,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 24,
+                "_customPadding": 16,
+                "_customLineHeight": 32,
+                "_customBackOpacity": 140,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        }
+    },
+    "Scene_Map": {
+        "WindowLayer": {
+            "0,Window_Message": {
+                "x": 117,
+                "y": 540,
+                "width": 1050,
+                "height": 180,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 24,
+                "_customPadding": "18",
+                "_customLineHeight": "36",
+                "_customBackOpacity": 140,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        },
+        "Scene_Map": {
+            "2,Sprite": {
+                "x": 360,
+                "y": 0
+            }
+        }
+    },
+    "Scene_Name": {}
+}

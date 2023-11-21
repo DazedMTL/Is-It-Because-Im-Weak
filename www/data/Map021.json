@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": true,
     "battleback1Name": "DirtField",
@@ -13684,7 +13684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[r6s]\\FF[s6s]\\AA[N]\\N[5]はThe place is wrapped in an awkward atmosphere."
+                                "\\F[r6s]\\FF[s6s]\\AA[N]\\N[5]: The place is wrapped in an\nawkward atmosphere."
                             ]
                         },
                         {
@@ -13904,7 +13904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ーーーーーーーー！！！"
+                                "ーーーーーーーー!!!"
                             ]
                         },
                         {

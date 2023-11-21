@@ -1275,7 +1275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ーーAh、―――noo」"
+                                "「ーーAh、---noo」"
                             ]
                         },
                         {
@@ -6264,7 +6264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s1]「あ、\\N[5]さん、、、」"
+                                "\\F[s1]Ah, \\N[5]-san..."
                             ]
                         },
                         {
@@ -6281,7 +6281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s2]「わたし、、、ずっと迷惑かけてばかりで、、、」"
+                                "\\F[s2]I've always been causing trouble..."
                             ]
                         },
                         {
@@ -6298,7 +6298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s7]「泣いてばかりで、ごめんなさい、、、」"
+                                "\\F[s7]I'm sorry for crying all the time..."
                             ]
                         },
                         {
@@ -6315,7 +6315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s2]「でも、、、」"
+                                "\\F[s2]But..."
                             ]
                         },
                         {
@@ -6332,7 +6332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s1]「なんか、終わってから、振り返ってみたら」"
+                                "\\F[s1]When it's over, if I look back on it, somehow"
                             ]
                         },
                         {
@@ -6349,7 +6349,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s5]「大事な思い出、みたいな感じです。」"
+                                "\\F[s5]It feels like an important memory."
                             ]
                         },
                         {
@@ -6366,7 +6366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s1]「それは、、、ずっと\\N[5]さんがいて、、」"
+                                "\\F[s1]「That is... as long as \\N[5]-san is there...」"
                             ]
                         },
                         {
@@ -6383,7 +6383,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s7]「それで、もう帰っちゃうから、、、そう感じるのかなって。」"
+                                "\\F[s7]「So, I'm already going home... I wonder if that's\nhow it feels.」"
                             ]
                         },
                         {
@@ -6400,7 +6400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s7]「また、どこかで、会えますよね？」"
+                                "\\F[s7]We'll meet again somewhere, right?"
                             ]
                         },
                         {
@@ -6417,7 +6417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s5]「できれば戦い以外で会いたいな。」"
+                                "\\F[s5]If possible, I'd like to meet outside of battle."
                             ]
                         },
                         {
@@ -6499,7 +6499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s1]「あ、\\N[5]さん、、、」"
+                                "\\F[s1]Ah, \\N[5]-san..."
                             ]
                         },
                         {
@@ -6516,7 +6516,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s2]「ほ、ほんとに、帰っちゃうんですね、、、」"
+                                "\\F[s2]I-Is it true that you're really going home...?"
                             ]
                         },
                         {
@@ -6533,7 +6533,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「う、、、」"
+                                "\\F[s3]「Uhh...」"
                             ]
                         },
                         {
@@ -6550,7 +6550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「うえ、、、」"
+                                "\\F[s3]「Uhh...」"
                             ]
                         },
                         {
@@ -6567,7 +6567,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s2]「わ、わたし、、、」"
+                                "\\F[s2]Uhh..."
                             ]
                         },
                         {
@@ -6584,7 +6584,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s2]「\\N[5]さんが、いるなら、、、」"
+                                "\\F[s2]As long as \\N[5]-san is there..."
                             ]
                         },
                         {
@@ -6601,7 +6601,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「もっ、、もうちょっと、魔物退治、、、」"
+                                "\\F[s7]I-I just need a little more time for monster\nextermination..."
                             ]
                         },
                         {
@@ -6618,7 +6618,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「がんばれます、、、、」"
+                                "\\F[s7]I can do my best..."
                             ]
                         },
                         {
@@ -6635,7 +6635,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「あっ、、あう、、、」"
+                                "\\F[s3]Ah, ah..."
                             ]
                         },
                         {
@@ -6652,7 +6652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「あっ、、泣かないようにするしっ、、、」"
+                                "\\F[s3]Ah, I'll try not to cry, so..."
                             ]
                         },
                         {
@@ -6669,7 +6669,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「わがままいわないっ、し、、、」"
+                                "\\F[s7]I won't be selfish, so..."
                             ]
                         },
                         {
@@ -6720,7 +6720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s6]「あと、、、あとっ、、、」"
+                                "\\F[s6]And... just a little more..."
                             ]
                         },
                         {
@@ -6737,7 +6737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「おっ、、お、、、」"
+                                "\\F[s7]O-oh..."
                             ]
                         },
                         {
@@ -6754,7 +6754,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s6]「おいもっ、、お芋がっ、、、」"
+                                "\\F[s6]Potato... the potato..."
                             ]
                         },
                         {
@@ -6771,7 +6771,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s6]「また育っててっ、、、」"
+                                "\\F[s6]I'll grow up again..."
                             ]
                         },
                         {
@@ -6788,7 +6788,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s6]「もうちょっとで、採れるからっ、、、」"
+                                "\\F[s6]Just a little more, then I can pick it..."
                             ]
                         },
                         {
@@ -6805,7 +6805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s2]「よく育ってて、、、、」"
+                                "\\F[s2]It's growing well, and..."
                             ]
                         },
                         {
@@ -6822,7 +6822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「よく、育ってるのっ、、、」"
+                                "\\F[s3]It's growing well, and..."
                             ]
                         },
                         {
@@ -6839,7 +6839,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「だからっ、、、、」"
+                                "\\F[s3]「So, ...」"
                             ]
                         },
                         {
@@ -6856,364 +6856,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「う、、、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「、、、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s6]「あと、、、あとっ、、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「、、、、あ、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s8]「あっ、、、あのっ、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「あのっ、、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「あっ、、、わっ、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「わたっ、、わたしっ、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「わたしっ、の、、こと、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s8]「わたしのことっ、、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s8]「、、、、、、、いじめて、、いいよ、、、？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s6]「あのっ、、あっ、のっ、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「すごく痛いこととか、恥ずかしいことはっ、、できないけどっ、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「もうちょっとぐらいなら、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s8]「がんばるからっ、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「泣かないようにするから、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s8]「\\N[5]さんが、いじめたいように、していい、、、から、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「、、、がんば、るっ、、からっ、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「泣かないっ、、からっ、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「だからっ、、、だから、、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「もう、ちょっと、、、」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\F[s7]「もうちょっと、、だけ、、、」"
+                                "\\F[s7]Uhh..."
                             ]
                         },
                         {
@@ -7247,7 +6890,330 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「だめ、、ですよね、、、」"
+                                "\\F[s6]Just a little more... just a little more..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]「、、、、Ah、、」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s8]Ah... umm..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]Um... uh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]Ah... oh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]「I... I...」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]I... my... thing..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s8]My... my..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s8]Is it okay... to bully me...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s6]Um, ah, no..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]I can't... do really painful or embarrassing\nthings..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]If it's just a little more..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s8]「I'll do my best...」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]I'll try not to cry, so..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s8]Because \\N[5]-san, can bully me as he likes..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]I'll... do my best..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]I'll try not to cry, so..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]So... so..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]Just a little more..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s7]Just a little more..."
                             ]
                         },
                         {
@@ -7281,7 +7247,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「う」"
+                                "\\F[s7]It's no good... is it..."
                             ]
                         },
                         {
@@ -7298,7 +7264,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「うううぅぅっ、、、」"
+                                "\\F[s7]「、、、、、」"
                             ]
                         },
                         {
@@ -7315,7 +7281,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「、、、ぅ、、、、」"
+                                "\\F[s7]U"
                             ]
                         },
                         {
@@ -7332,7 +7298,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s4]「うあああぁぁああぁぁあああああんんんっっ」"
+                                "\\F[s7]Uuuuuh..."
                             ]
                         },
                         {
@@ -7349,7 +7315,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s4]「ざびじいっよおおおぉぉぉおぉおおぉっっっ」"
+                                "\\F[s7]Ugh..."
                             ]
                         },
                         {
@@ -7366,7 +7332,41 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s4]「あああああぁぁぁああああぁぁぁぁああっっっ」"
+                                "\\F[s4]Uwaaaaaaannnnn!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s4]Zabijiiooooooo!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\F[s4]Aaaaaaahhhhhhhhhhhhh!"
                             ]
                         },
                         {
@@ -7395,7 +7395,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナはしばらく泣いていた。"
+                                "Sina: Sina cried for a while."
                             ]
                         },
                         {
@@ -7424,7 +7424,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「ずび」"
+                                "\\F[s3]Zubi"
                             ]
                         },
                         {
@@ -7441,7 +7441,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「ごめんなざい」"
+                                "\\F[s3]I'm sorry"
                             ]
                         },
                         {
@@ -7458,7 +7458,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「あした、お見送り、しますから、、、」"
+                                "\\F[s7]Tomorrow, I will see you off..."
                             ]
                         },
                         {
@@ -7475,7 +7475,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]「あしたは、泣かないからっ、、、」"
+                                "\\F[s3]Tomorrow, I won't cry, okay..."
                             ]
                         },
                         {
@@ -7492,7 +7492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「だから、、また、この村にきてね、、？」"
+                                "\\F[s7]So, um, please come back to this village again,\nokay?"
                             ]
                         },
                         {
@@ -7509,7 +7509,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]「ううう、、、」"
+                                "\\F[s7]Ugh..."
                             ]
                         },
                         {
@@ -7547,8 +7547,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "今夜はシーナと過ごす",
-                                    "やめておく"
+                                    "Spend tonight with Sina",
+                                    "Leave it be"
                                 ],
                                 -1,
                                 0,
@@ -7644,7 +7644,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[s2]「あ、、、」"
+                                "\\F[s2]「Ah...」"
                             ]
                         },
                         {
@@ -7661,7 +7661,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[s5]「そ、そうですよね、、、」"
+                                "\\F[s5]「So, that's right, isn't it...」"
                             ]
                         },
                         {
@@ -7678,7 +7678,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[s5]「わ、わたしったら、、、、」"
+                                "\\F[s5]「I, I'm such a...」"
                             ]
                         },
                         {
@@ -7695,7 +7695,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[s1]「あ、あの、ありがとうございました。」"
+                                "\\F[s1]Thank you very much."
                             ]
                         },
                         {
@@ -7712,7 +7712,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[s5]「お、お世話になりました。」"
+                                "\\F[s5]Thank you very much."
                             ]
                         },
                         {
@@ -7780,7 +7780,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[s7]「う」"
+                                "\\F[s7]Ugh"
                             ]
                         },
                         {
@@ -7797,7 +7797,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[s3]「うえ、、、、」"
+                                "\\F[s3]「Ugh...」"
                             ]
                         },
                         {
@@ -7894,7 +7894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s1]「\\N[5]さん、、、」"
+                                "\\F[s1]\\N[5]-san..."
                             ]
                         },
                         {
@@ -7911,7 +7911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s2]「帰っちゃうんですね、、、」"
+                                "\\F[s2]You're leaving, huh..."
                             ]
                         },
                         {
@@ -7945,7 +7945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s1]「ヤトさんも、いっしょ、、？」"
+                                "\\F[s1]「Yato-san, are you leaving too...?」"
                             ]
                         },
                         {
@@ -7962,7 +7962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s1]ヤトは\\N[5]より早く憲兵に連れられて出発するはずだ。"
+                                "\\F[s1]Yato should be leaving with the military police\nbefore \\N[5]."
                             ]
                         },
                         {
@@ -7979,7 +7979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s1]「そ、そうなんですね、、、」"
+                                "\\F[s1]I-Is that so..."
                             ]
                         },
                         {
@@ -7996,7 +7996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s2]「ヤトさん、、なんか、交渉？するとか、言ってましたよね、、」"
+                                "\\F[s2]Yato-san, you mentioned something about\nnegotiating, right...?"
                             ]
                         },
                         {
@@ -8013,7 +8013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s2]「うまく、いくかな、、？」"
+                                "\\F[s2]I wonder if it will go well..."
                             ]
                         },
                         {
@@ -8030,7 +8030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s2]\\N[5]には国にとってヤトの研究がどれほどの価値になるのかわからない。"
+                                "\\F[s2]I don't know how much value Yato's research will\nbe for the country."
                             ]
                         },
                         {
@@ -8047,7 +8047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s2]「そう、ですか、、、」"
+                                "\\F[s2]Is that so..."
                             ]
                         },
                         {
@@ -8064,7 +8064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s3]「うまくいかなかったら、、、」"
+                                "\\F[s3]If it doesn't go well..."
                             ]
                         },
                         {
@@ -8081,7 +8081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s7]「う、、」"
+                                "\\F[s7]「Ugh...」"
                             ]
                         },
                         {
@@ -8115,7 +8115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s2]「\\N[5]さんは、ヤトさんのこと、恨んでますか、、？」"
+                                "\\F[s2]Does \\N[5]-san hold a grudge against Yato-san?"
                             ]
                         },
                         {
@@ -8132,7 +8132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s2]\\N[5]は不思議とヤトにそれほど恨みの感情は抱いていない。"
+                                "\\F[s2]\\N[5] doesn't seem to hold that much resentment\ntowards Yato."
                             ]
                         },
                         {
@@ -8149,7 +8149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s1]「そうなんだっ」"
+                                "\\F[s1]Is that so..."
                             ]
                         },
                         {
@@ -8166,7 +8166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s5]「そうですよね、、、」"
+                                "\\F[s5]Is that so..."
                             ]
                         },
                         {
@@ -8183,7 +8183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s6]「あっ、いや、、、」"
+                                "\\F[s6]Ah, no..."
                             ]
                         },
                         {
@@ -8217,7 +8217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s7]「ごめんなさい」"
+                                "\\F[s7]I'm sorry"
                             ]
                         },
                         {
@@ -8234,7 +8234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s5]「あっ、あした、早いですよね、、、」"
+                                "\\F[s5]Ah, tomorrow, it's early, isn't it..."
                             ]
                         },
                         {
@@ -8251,7 +8251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[s5]「よく寝て、備えてくださいね。」"
+                                "\\F[s5]Make sure to get a good rest and prepare\nyourself."
                             ]
                         },
                         {

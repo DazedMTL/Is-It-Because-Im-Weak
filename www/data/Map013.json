@@ -1120,8 +1120,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Please allow me to do a physical examination.",
-                                    "It's nothing."
+                                    "Please allow me to do a physical examination",
+                                    "It's nothing"
                                 ],
                                 1,
                                 0,
@@ -1166,8 +1166,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "「It's necessary.」",
-                                    "「Okay, take off your clothes.」",
+                                    "「It's necessary」",
+                                    "「Okay, take off your clothes」",
                                     "Take it off without any questions!"
                                 ],
                                 -1,
@@ -2049,7 +2049,7 @@
                             "parameters": [
                                 [
                                     "Turn around for a moment.",
-                                    "Let's stop."
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,
@@ -7057,7 +7057,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「\\N[5]くんこんばんは。」"
+                                "\\F[h1]「Good evening, \\N[5]-kun.」"
                             ]
                         },
                         {
@@ -7074,7 +7074,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「うふふ、ご挨拶に来てくれたのね。」"
+                                "\\F[h2]Good evening, \\N[5]-kun."
                             ]
                         },
                         {
@@ -7091,7 +7091,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「もう、準備万端？？」"
+                                "\\F[h1]Are you all set and ready to go?"
                             ]
                         },
                         {
@@ -7108,7 +7108,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「うふ、忘れものしちゃ、だめよ。」"
+                                "\\F[h2]Ufufu, forgetting something is no good."
                             ]
                         },
                         {
@@ -7159,7 +7159,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「、、、ふふ」"
+                                "\\F[h2]「、、、hehe」"
                             ]
                         },
                         {
@@ -7176,7 +7176,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「今ね、、」"
+                                "\\F[h1]Now, you see..."
                             ]
                         },
                         {
@@ -7193,7 +7193,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「やっぱり、忘れものしちゃえ、って思っちゃった。」"
+                                "\\F[h1]I ended up thinking that I should just forget\nsomething after all."
                             ]
                         },
                         {
@@ -7210,7 +7210,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「うふふ」"
+                                "\\F[h2]Ufufu"
                             ]
                         },
                         {
@@ -7227,7 +7227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「、、、さびしいわ。」"
+                                "\\F[h1]、、、I'm lonely."
                             ]
                         },
                         {
@@ -7244,7 +7244,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h4]「けど、お仕事だもんね。」"
+                                "\\F[h4]But, it's work after all."
                             ]
                         },
                         {
@@ -7261,7 +7261,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h4]「\\N[5]くんは、国のみんなのために働いてる人だもんね。」"
+                                "\\F[h4]\\N[5]-kun is working for the sake of everyone in\nthe country, after all."
                             ]
                         },
                         {
@@ -7278,7 +7278,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h4]「私たちが、独り占めしちゃ、だめよね。」"
+                                "\\F[h4]We shouldn't hog it all to ourselves."
                             ]
                         },
                         {
@@ -7295,7 +7295,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h6]「ああ、男の子を送り出すお母さんって、こんな気持ちなのかしら、、、」"
+                                "\\F[h6]Ah, I wonder if this is how a mother feels when\nsending off her son..."
                             ]
                         },
                         {
@@ -7312,7 +7312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h5]「すごく、つらいのね、、、」"
+                                "\\F[h5]It's really, painful, isn't it..."
                             ]
                         },
                         {
@@ -7329,7 +7329,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h7]「胸が、ぎゅって、なっちゃうわ、、、」"
+                                "\\F[h7]My heart feels, tight and, painful..."
                             ]
                         },
                         {
@@ -7363,7 +7363,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「若いのに、ひとりで知らない土地に来て、、」"
+                                "\\F[h1]Even though she's young, coming to an unfamiliar\nplace all alone..."
                             ]
                         },
                         {
@@ -7380,7 +7380,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「よく頑張ったわね。」"
+                                "\\F[h1]You've worked hard."
                             ]
                         },
                         {
@@ -7397,7 +7397,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「\\N[5]くんは、きっとこれからどこに行っても、頼りにされる人になるのね。」"
+                                "\\F[h1]\\N[5]-kun will surely become someone who can be\nrelied on no matter where he goes in the future."
                             ]
                         },
                         {
@@ -7414,7 +7414,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「うふふ。たのもしいわ。」"
+                                "\\F[h2]Hehe, you're reliable."
                             ]
                         },
                         {
@@ -7431,7 +7431,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「\\N[5]くんは、私なんかよりずっとすごい人なのにね、、、」"
+                                "\\F[h2]\\N[5]-kun is such an amazing person, much more\nthan I am..."
                             ]
                         },
                         {
@@ -7448,7 +7448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「きっと帝都で色んな人に出会って、もっと素敵な人になっていくのね、、、」"
+                                "\\F[h1]Surely, he will meet many people in the Imperial\nCapital and become an even more wonderful\nperson..."
                             ]
                         },
                         {
@@ -7465,7 +7465,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h5]「それで、若くてかわいい子を見つけて、、、」"
+                                "\\F[h5]And then, finding a young and cute girl..."
                             ]
                         },
                         {
@@ -7482,7 +7482,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h5]「それでっ、、、」"
+                                "\\F[h5]「それで、、、」"
                             ]
                         },
                         {
@@ -7499,7 +7499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「ね、、、？」"
+                                "\\F[h2]Hey...?"
                             ]
                         },
                         {
@@ -7533,7 +7533,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h3]「でっ、でも、、、」"
+                                "\\F[h3]B-But..."
                             ]
                         },
                         {
@@ -7550,7 +7550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「たまには、この村のことも、思い出してね、、？」"
+                                "\\F[h2]Sometimes, remember about this village too,\nokay?"
                             ]
                         },
                         {
@@ -7567,7 +7567,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h7]「それで、もっとたまにでいいから、わたしのことも、、思い出してね、、？」"
+                                "\\F[h7]And then, once in a while, please remember me\ntoo, okay?"
                             ]
                         },
                         {
@@ -7584,7 +7584,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「うふふ。わたしは、勝手に\\N[5]くんのお母さん、、みたいな気分なんだから。」"
+                                "\\F[h2]Hehe, I feel like I'm \\N[5]-kun's mother in my own\nway."
                             ]
                         },
                         {
@@ -7601,7 +7601,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「もしお手紙なんかくれたら、飛び上がって喜んじゃうんだから。」"
+                                "\\F[h2]If you were to send me a letter, I'd jump for\njoy."
                             ]
                         },
                         {
@@ -7652,7 +7652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「じゃあ、明日、お見送りさせてね。」"
+                                "\\F[h1]Then, let me see you off tomorrow, okay?"
                             ]
                         },
                         {
@@ -7686,7 +7686,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]「夜更かし、しちゃダメよ？」"
+                                "\\F[h2]You shouldn't stay up late, okay?"
                             ]
                         },
                         {
@@ -7720,7 +7720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h1]「おやすみ、、ね、、？」"
+                                "\\F[h1]「Good night... okay...?」"
                             ]
                         },
                         {
@@ -7758,8 +7758,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "今夜はヘレナと過ごす",
-                                    "やめておく"
+                                    "Spend tonight with Helena",
+                                    "Leave it be"
                                 ],
                                 -1,
                                 0,
@@ -7855,7 +7855,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[h3]「あっ」"
+                                "\\F[h3]Ah"
                             ]
                         },
                         {
@@ -7872,7 +7872,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[h6]「あ、もう、、いっちゃうの、、？」"
+                                "\\F[h6]Ah, are you already... leaving?"
                             ]
                         },
                         {
@@ -7889,7 +7889,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[h4]「、、、そっ、そうよねっ」"
+                                "\\F[h4]Yeah, that's right."
                             ]
                         },
                         {
@@ -7906,7 +7906,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[h4]「そうよ、明日早いんだからっ」"
+                                "\\F[h4]Yeah, that's right. I have to get up early\ntomorrow."
                             ]
                         },
                         {
@@ -7923,7 +7923,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[h2]「いっぱい歩くんでしょっ？」"
+                                "\\F[h2]You'll be walking a lot, won't you?"
                             ]
                         },
                         {
@@ -7940,7 +7940,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[h1]「早く寝なきゃ、だもん、ね？」"
+                                "\\F[h1]You have to go to bed early, okay?"
                             ]
                         },
                         {
@@ -7974,7 +7974,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\F[h6]「、、、お見送りは、させてね？」"
+                                "\\F[h6]「...Can I see you off?」"
                             ]
                         },
                         {
@@ -8071,7 +8071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h2]「あら、こんばんは。」"
+                                "\\F[h2]Oh, good evening."
                             ]
                         },
                         {
@@ -8088,7 +8088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h1]「、、、明日ね、、、」"
+                                "\\F[h1]Tomorrow, then..."
                             ]
                         },
                         {
@@ -8105,7 +8105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h6]「寂しくなっちゃうわ、、、」"
+                                "\\F[h6]I'll get lonely..."
                             ]
                         },
                         {
@@ -8139,7 +8139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h6]「それで、、、あの、、、」"
+                                "\\F[h6]So, um..."
                             ]
                         },
                         {
@@ -8156,7 +8156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h4]「ヤトさんも、明日なんでしょ、、？」"
+                                "\\F[h4]Yato-san, you also have something tomorrow,\nright?"
                             ]
                         },
                         {
@@ -8173,7 +8173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h4]ヤトは明日の早朝に、一足早く帝都から迎えにくる憲兵に連行される予定だ。"
+                                "\\F[h4]Yato is scheduled to be taken into custody by the\nmilitary police who will come to pick him up from\nthe capital early tomorrow morning."
                             ]
                         },
                         {
@@ -8190,7 +8190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h3]「あ、、\\N[5]くんと、一緒ではないのね、、？」"
+                                "\\F[h3]Oh, \\N[5]-kun, you're not together with him, huh?"
                             ]
                         },
                         {
@@ -8207,7 +8207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h6]「そう、、、」"
+                                "\\F[h6]Yeah..."
                             ]
                         },
                         {
@@ -8224,7 +8224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h6]「どんな、罪になるのかしら、、？」"
+                                "\\F[h6]I wonder what kind of crime it will be..."
                             ]
                         },
                         {
@@ -8241,7 +8241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h6]\\N[5]にはヤトがどう裁かれるのかは分からない。"
+                                "\\F[h6]\\N[5] doesn't know how Yato will be judged."
                             ]
                         },
                         {
@@ -8275,7 +8275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h6]「、、、その、、まさか、、」"
+                                "\\F[h6]「...That...could it be...」"
                             ]
                         },
                         {
@@ -8292,7 +8292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h5]「その、、処刑とか、、されないわよね、、？」"
+                                "\\F[h5]They won't...execute him, will they...?"
                             ]
                         },
                         {
@@ -8326,7 +8326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h3]「ご、ごめんなさい。」"
+                                "\\F[h3]I-I'm sorry."
                             ]
                         },
                         {
@@ -8343,7 +8343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h6]「分からないわよね。」"
+                                "\\F[h6]I don't know, do I?"
                             ]
                         },
                         {
@@ -8360,7 +8360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h2]「気にしないでっ、、、」"
+                                "\\F[h2]Don't worry about it..."
                             ]
                         },
                         {
@@ -8394,7 +8394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h1]「\\N[5]くん、今まで、ありがとうね。」"
+                                "\\F[h1]\\N[5]-kun, thank you for everything up until now."
                             ]
                         },
                         {
@@ -8411,7 +8411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h1]「立派な、学者さんになってね。」"
+                                "\\F[h1]Become a splendid scholar, okay?"
                             ]
                         },
                         {
@@ -8428,7 +8428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h2]「あ、、、もう立派な学者さんか。」"
+                                "\\F[h2]Ah...you've become such a splendid scholar."
                             ]
                         },
                         {
@@ -8445,7 +8445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h2]「うふふ」"
+                                "\\F[h2]Ufufu"
                             ]
                         },
                         {

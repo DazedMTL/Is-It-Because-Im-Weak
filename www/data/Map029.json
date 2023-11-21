@@ -1,4 +1,4 @@
-﻿{
+{
     "autoplayBgm": true,
     "autoplayBgs": true,
     "battleback1Name": "RockCave",
@@ -20818,8 +20818,8 @@
                             "parameters": [
                                 [
                                     "Make it or break it! Make it or break it!",
-                                    "Let's move on...",
-                                    "Let's leave..."
+                                    "Let's move on",
+                                    "Let's leave"
                                 ],
                                 -1,
                                 -1,
@@ -23867,8 +23867,8 @@
                             "parameters": [
                                 [
                                     "Make it or break it! Make it or break it!",
-                                    "Let's move on...",
-                                    "Let's leave..."
+                                    "Let's move on",
+                                    "Let's leave"
                                 ],
                                 -1,
                                 -1,
@@ -26805,8 +26805,8 @@
                             "parameters": [
                                 [
                                     "Make it or break it! Make it or break it!",
-                                    "Let's move on...",
-                                    "Let's leave..."
+                                    "Let's move on",
+                                    "Let's leave"
                                 ],
                                 -1,
                                 -1,
@@ -29743,8 +29743,8 @@
                             "parameters": [
                                 [
                                     "Make it or break it! Make it or break it!",
-                                    "Let's move on...",
-                                    "Let's leave..."
+                                    "Let's move on",
+                                    "Let's leave"
                                 ],
                                 -1,
                                 -1,
@@ -33489,7 +33489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aaaaaahーーーーーー！！！！」"
+                                "「Aaaaaahーーーーーー!!!!」"
                             ]
                         },
                         {
@@ -35702,7 +35702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Aaaaaahーーーーーー！！！！」"
+                                "「Aaaaaahーーーーーー!!!!」"
                             ]
                         },
                         {
@@ -53793,7 +53793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Eeeeeeeeek!ーーーー！！！！」"
+                                "「Eeeeeeeeek!ーーーー!!!!」"
                             ]
                         },
                         {
@@ -66437,7 +66437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Eeeeeeeeek!ーーーー！！！！」"
+                                "「Eeeeeeeeek!ーーーー!!!!」"
                             ]
                         },
                         {
@@ -73555,7 +73555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Eeeeeeeeek!ーーーー！！！！」"
+                                "「Eeeeeeeeek!ーーーー!!!!」"
                             ]
                         },
                         {
@@ -80477,7 +80477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ーーーEh！\\N[5]-san eat that!?」"
+                                "「ーーーEh!\\N[5]-san eat that!?」"
                             ]
                         },
                         {

@@ -28044,7 +28044,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「Aaahーー\\N[5]-sanーーYou're so mean, you're just so mean!」"
+                                "「Aaahーー\\N[5]-sanーーYou're so mean, you're just so\nmean!」"
                             ]
                         },
                         {
@@ -30053,7 +30053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ーーPleeeeeeeeease! Aaaaahhhh! Pleeease! Please stoop!」"
+                                "「ーーPleeeeeeeeease! Aaaaahhhh! Pleeease! Please\nstoop!」"
                             ]
                         },
                         {
@@ -30289,14 +30289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ーーーーAaaah, Kuma-kun!ーーーAaaah \\N[5]-sanーー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ーーーーAhh, ahh, ahhhーーーーーhh」"
+                                "「ーーーーAaaah, Kuma-kun!ーーーAaaah \\N[5]-sanーーーーーーAhh,\nahh, ahhhーーーーーhh」"
                             ]
                         },
                         {
@@ -30334,14 +30327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ーーーーAaah, \\N[5]-san ーーmoreーーー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ーDo it mooooooore! Aaaaahhhh!ーーhh」"
+                                "「ーーーーAaah, \\N[5]-san ーーmoreーーーーDo it mooooooore!\nAaaaahhhh!ーーhh」"
                             ]
                         },
                         {
@@ -30379,14 +30365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ーーーーAhhh, Kuma-chan!ーーーAaaaahhhh, Michaaa!ーー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ーーDon't look at meeeee! Aaaaahhhh!ーーーーーhh」"
+                                "「ーーーーAhhh, Kuma-chan!ーーーAaaaahhhh,\nMichaaa!ーーーーDon't look at meeeee!\nAaaaahhhh!ーーーーーhh」"
                             ]
                         },
                         {
@@ -33332,14 +33311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[r5]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あっ」"
+                                "\\F[r5]Ricca: Ah"
                             ]
                         },
                         {
@@ -33356,7 +33328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[r5]\\AA[N]\\N[5]が洞窟に入ろうとすると、リッカと鉢合わせになった。"
+                                "\\F[r5]When \\N[5] tried to enter the cave, he ran into\nRicca."
                             ]
                         },
                         {
@@ -33373,14 +33345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[r7]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あの、、いや、、、、」"
+                                "\\F[r7]Ricca: Um, well..."
                             ]
                         },
                         {
@@ -33397,14 +33362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[r7]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちゃんと、大人しくしてるかなと、、」"
+                                "\\F[r7]Ricca: I wonder if he's behaving himself\nproperly..."
                             ]
                         },
                         {
@@ -33421,14 +33379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[r9]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちょっと、確認しただけです。」"
+                                "\\F[r9]Ricca: I just wanted to make sure."
                             ]
                         },
                         {
@@ -33445,14 +33396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[r7]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「では、、、」"
+                                "\\F[r7]Ricca: Well then..."
                             ]
                         },
                         {
@@ -33474,7 +33418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカは少しバツが悪そうに去っていった。"
+                                "Ricca: Ricca left looking a little embarrassed."
                             ]
                         },
                         {
@@ -33523,14 +33467,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r6]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あ、、、」"
+                                "\\F[r6]Ricca: Ah..."
                             ]
                         },
                         {
@@ -33547,7 +33484,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r6]\\AA[N]\\N[5]が洞窟に入ろうとすると、リッカと鉢合わせになった。"
+                                "\\F[r6]When \\N[5] tried to enter the cave, he ran into\nRicca."
                             ]
                         },
                         {
@@ -33564,14 +33501,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r7]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「その、、、」"
+                                "\\F[r7]Ricca: Um..."
                             ]
                         },
                         {
@@ -33588,14 +33518,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r7]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r7]Ricca: ......"
                             ]
                         },
                         {
@@ -33612,14 +33535,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r9]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、ごめんなさい。」"
+                                "\\F[r9]Ricca: ......"
                             ]
                         },
                         {
@@ -33641,7 +33557,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは伏し目がちに去っていった。"
+                                "Ricca left with her eyes cast downward."
                             ]
                         },
                         {
@@ -33779,14 +33695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s6]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「きゃっ」"
+                                "\\F[s6]Sina: Eek"
                             ]
                         },
                         {
@@ -33803,7 +33712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s6]\\AA[N]\\N[5]が洞窟に入ろうとすると、シーナと鉢合わせになった。"
+                                "\\F[s6]When \\N[5] tried to enter the cave, he ran into\nSina."
                             ]
                         },
                         {
@@ -33820,14 +33729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s6]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あ、、あわわ、、あわわわわ」"
+                                "\\F[s6]Sina: Ah... a-a-ahh..."
                             ]
                         },
                         {
@@ -33844,14 +33746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s3]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あ、ああ、あの、、」"
+                                "\\F[s3]Sina: Ah, um, well..."
                             ]
                         },
                         {
@@ -33868,14 +33763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s3]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ああ、あ、ち、ちょっと、、、」"
+                                "\\F[s3]Sina: Ah, um, well..."
                             ]
                         },
                         {
@@ -33892,14 +33780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s6]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちょっと、、気になって、、覗いちゃいました、、、」"
+                                "\\F[s6]Sina: I, um, was just a little curious, so I\npeeked..."
                             ]
                         },
                         {
@@ -33916,14 +33797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[s7]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ご、ごご、ごめんなさい、、、」"
+                                "\\F[s7]Sina: I-I'm, I'm sorry..."
                             ]
                         },
                         {
@@ -33945,7 +33819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナは頭を下げて走り去ってしまった。"
+                                "Sina bowed her head and ran away."
                             ]
                         },
                         {
@@ -33994,14 +33868,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s6]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「きゃあっ」"
+                                "\\F[s6]Sina: Kyaa!"
                             ]
                         },
                         {
@@ -34018,7 +33885,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s6]\\AA[N]\\N[5]が洞窟に入ろうとすると、シーナと鉢合わせになった。"
+                                "\\F[s6]When \\N[5] tried to enter the cave, he ran into\nSina."
                             ]
                         },
                         {
@@ -34035,14 +33902,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s2]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あっ、、、、」"
+                                "\\F[s2]Sina: Ah..."
                             ]
                         },
                         {
@@ -34059,14 +33919,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あ、、あのっ、あのっ、、」"
+                                "\\F[s3]Sina: Ah... um, well..."
                             ]
                         },
                         {
@@ -34083,14 +33936,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s2]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ご、、」"
+                                "\\F[s2]Sina: Umm..."
                             ]
                         },
                         {
@@ -34107,14 +33953,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s3]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ごごごごごご」"
+                                "\\F[s3]Sina: G-g-g-g-g-g-"
                             ]
                         },
                         {
@@ -34131,14 +33970,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s7]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ごめんなさいっっ！！！」"
+                                "\\F[s7]Sina: I'm so sorry!!!"
                             ]
                         },
                         {
@@ -34160,7 +33992,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは逃げるように去ってしまった。"
+                                "Sina ran away as if escaping."
                             ]
                         },
                         {
@@ -34298,14 +34130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[h3]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あっ、、、」"
+                                "\\F[h3]Helena: Ah..."
                             ]
                         },
                         {
@@ -34322,7 +34147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[h3]\\AA[N]\\N[5]が洞窟に入ろうとすると、ヘレナと鉢合わせになった。"
+                                "\\F[h3]When \\N[5] tried to enter the cave, he ran into\nHelena."
                             ]
                         },
                         {
@@ -34339,14 +34164,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[h6]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「\\N[5]くん、、、、」"
+                                "\\F[h6]Helena: \\N[5]-kun..."
                             ]
                         },
                         {
@@ -34363,14 +34181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[h5]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あの、、\\N[5]くん、、ごめんなさい」"
+                                "\\F[h5]Helena: Um... \\N[5]-kun, I'm sorry"
                             ]
                         },
                         {
@@ -34387,14 +34198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[h5]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「気になって、ちょっと覗いちゃった、、、」"
+                                "\\F[h5]Helena: I was curious, so I peeked in a\nlittle..."
                             ]
                         },
                         {
@@ -34411,14 +34215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[h6]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「、、、ごめんね、だめって言われたのに。」"
+                                "\\F[h6]Helena: I'm sorry... even though I was told not\nto."
                             ]
                         },
                         {
@@ -34435,14 +34232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[h4]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゃあ、、もう、もどるわ。」"
+                                "\\F[h4]Helena: Well then, I'll go back now."
                             ]
                         },
                         {
@@ -34464,7 +34254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘレナは足早に去っていった。"
+                                "Helena quickly walked away."
                             ]
                         },
                         {
@@ -34513,14 +34303,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h6]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あ、\\N[5]くん、、、」"
+                                "\\F[h6]Helena: Ah, \\N[5]-kun..."
                             ]
                         },
                         {
@@ -34537,7 +34320,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h6]\\AA[N]\\N[5]が洞窟に入ろうとすると、ヘレナと鉢合わせになった。"
+                                "\\F[h6]When \\N[5] tried to enter the cave, he ran into\nHelena."
                             ]
                         },
                         {
@@ -34554,14 +34337,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h6]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、」"
+                                "\\F[h6]Helena: ..."
                             ]
                         },
                         {
@@ -34578,14 +34354,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h5]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、また、、、ごめんなさい、、、」"
+                                "\\F[h5]Helena: I'm sorry... again..."
                             ]
                         },
                         {
@@ -34602,14 +34371,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h6]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、あの、、、\\N[5]くん、、？」"
+                                "\\F[h6]Helena: Umm... \\N[5]-kun...?"
                             ]
                         },
                         {
@@ -34626,14 +34388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h4]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ヤトさんに、ちゃんとご飯届けてあげてね？」"
+                                "\\F[h4]Helena: Please make sure to deliver the meal to\nYato-san, okay?"
                             ]
                         },
                         {
@@ -34650,14 +34405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h2]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、じゃあ、、、」"
+                                "\\F[h2]Helena: Umm... then..."
                             ]
                         },
                         {
@@ -34679,7 +34427,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナが俯きがちにその場を後にした。"
+                                "Helena quickly walked away, often looking down."
                             ]
                         },
                         {
@@ -34817,14 +34565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[m4]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あっ、、、」"
+                                "\\F[m4]Miko: Ah..."
                             ]
                         },
                         {
@@ -34841,7 +34582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[m4]\\AA[N]\\N[5]が洞窟に入ろうとすると、ミコと鉢合わせになった。"
+                                "\\F[m4]When \\N[5] tried to enter the cave, he ran into\nMiko."
                             ]
                         },
                         {
@@ -34858,14 +34599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[m4]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「、、、、」"
+                                "\\F[m4]Miko: ..."
                             ]
                         },
                         {
@@ -34882,14 +34616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[m1]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[m1]Miko: ......"
                             ]
                         },
                         {
@@ -34906,14 +34633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[m6]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちらっと、みにきた」"
+                                "\\F[m6]Miko: I just came to take a peek"
                             ]
                         },
                         {
@@ -34930,14 +34650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[m6]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「だけ」"
+                                "\\F[m6]Miko: only"
                             ]
                         },
                         {
@@ -34954,14 +34667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[m5]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それだけ」"
+                                "\\F[m5]Miko: Just that"
                             ]
                         },
                         {
@@ -34983,7 +34689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう言うとミコは逃げるように去っていった。"
+                                "With that, Miko hurriedly ran away."
                             ]
                         },
                         {
@@ -35032,14 +34738,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m4]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「おわっと」"
+                                "\\F[m4]Miko: Phew"
                             ]
                         },
                         {
@@ -35056,7 +34755,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m4]\\AA[N]\\N[5]が洞窟に入ろうとすると、ミコと鉢合わせになった。"
+                                "\\F[m4]When \\N[5] tried to enter the cave, he ran into\nMiko."
                             ]
                         },
                         {
@@ -35073,14 +34772,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m4]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「\\N[5]だ、、、」"
+                                "\\F[m4]Miko: \\N[5]..."
                             ]
                         },
                         {
@@ -35097,14 +34789,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m1]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、」"
+                                "\\F[m1]Miko: ......"
                             ]
                         },
                         {
@@ -35121,14 +34806,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m6]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[m6]Miko: ......"
                             ]
                         },
                         {
@@ -35145,14 +34823,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m5]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ミコ、、、」"
+                                "\\F[m5]Miko: Miko..."
                             ]
                         },
                         {
@@ -35169,14 +34840,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m6]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ミコ、わるいことしてないよ」"
+                                "\\F[m6]Miko: Miko, I didn't do anything wrong"
                             ]
                         },
                         {
@@ -35193,14 +34857,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m1]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ではっ」"
+                                "\\F[m1]Miko: Well then"
                             ]
                         },
                         {
@@ -35222,7 +34879,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そう言うとミコは逃げるように走り去っていった。"
+                                "With that, Miko hurriedly ran away."
                             ]
                         },
                         {
@@ -36171,7 +35828,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Let me take your body data.",
+                                    "Let me take your body data",
                                     "Never mind"
                                 ],
                                 1,
@@ -36217,8 +35874,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "It's like a simple test.",
-                                    "There's no point in hating it.",
+                                    "It's like a simple test",
+                                    "There's no point in hating it",
                                     "No questions asked!"
                                 ],
                                 -1,
@@ -38420,14 +38077,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -38444,14 +38094,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、もどりました」"
+                                "\\F[r141]Ricca: ......I'm back."
                             ]
                         },
                         {
@@ -38489,14 +38132,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -38513,14 +38149,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、\\N[5]さんが、、、」"
+                                "\\F[r141]Ricca: ......\\N[5]-san..."
                             ]
                         },
                         {
@@ -38537,14 +38166,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、無事でよかった」"
+                                "\\F[r141]Ricca: Thank goodness, you're safe."
                             ]
                         },
                         {
@@ -38642,14 +38264,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ううぅ、、」"
+                                "\\F[s37]Sina: ......Ugh......"
                             ]
                         },
                         {
@@ -38666,14 +38281,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、もう、、、」"
+                                "\\F[s37]Sina: ......Geez......"
                             ]
                         },
                         {
@@ -38690,14 +38298,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、お嫁にいけません」"
+                                "\\F[s37]Sina: ......I can't get married."
                             ]
                         },
                         {
@@ -38735,14 +38336,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[s37]Sina: ......"
                             ]
                         },
                         {
@@ -38759,14 +38353,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、なにも、聞かないで、、、」"
+                                "\\F[s37]Sina: ......Please, don't ask anything......"
                             ]
                         },
                         {
@@ -38783,14 +38370,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]さんには言えない、、、」"
+                                "\\F[s37]Sina: ......I can't tell \\N[5]-san......"
                             ]
                         },
                         {
@@ -38888,14 +38468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -38912,14 +38485,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、生きて、、、」"
+                                "\\F[h25]Helena: ......Thank goodness, you're alive......"
                             ]
                         },
                         {
@@ -38936,14 +38502,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、また会えたんだから、、、ね」"
+                                "\\F[h25]Helena: We were able to meet again, after all."
                             ]
                         },
                         {
@@ -38981,14 +38540,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -39005,14 +38557,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]くん、、、」"
+                                "\\F[h25]Sina: ......\\N[5]-kun......"
                             ]
                         },
                         {
@@ -39029,14 +38574,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、姿がなくて、、心配してたんだから、、、」"
+                                "\\F[h25]Sina: ......I was worried because I couldn't see\nyou......"
                             ]
                         },
                         {
@@ -39134,14 +38672,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -39158,14 +38689,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ぷい」"
+                                "\\F[m25]Miko: ......phew"
                             ]
                         },
                         {
@@ -39203,14 +38727,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -39227,14 +38744,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m22]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m22]Miko: ......"
                             ]
                         },
                         {
@@ -39251,14 +38761,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -39275,14 +38778,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、ぎゅ、する」"
+                                "\\F[m35]Miko: ......*hug*......"
                             ]
                         },
                         {
@@ -39299,7 +38795,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]\\N[5]はミコを抱きしめた。"
+                                "\\F[m35]\\N[5] hugged Miko."
                             ]
                         },
                         {
@@ -39567,7 +39063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカはゴブリンに \\V[19] 回 膣内射精を受けた"
+                                "Ricca: Ricca received vaginal ejaculation from a\ngoblin \\V[19] times"
                             ]
                         },
                         {
@@ -39607,7 +39103,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは子宮に限界以上の大量射精を受けた"
+                                "Ricca received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -39624,7 +39120,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカの子宮の最大容量が \\V[391] ml増加した"
+                                "Ricca's uterine capacity increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -39752,7 +39248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカはゴブリンに \\V[19] 回 腸内射精を受けた"
+                                "Ricca received \\V[19] instances of anal\nejaculation from a goblin"
                             ]
                         },
                         {
@@ -40460,7 +39956,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナはゴブリンに \\V[19] 回 膣内射精を受けた"
+                                "Sina received vaginal ejaculation from a goblin\n\\V[19] times"
                             ]
                         },
                         {
@@ -40500,7 +39996,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは子宮に限界以上の大量射精を受けた"
+                                "Sina received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -40517,7 +40013,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナの子宮の最大容量が \\V[391] ml増加した"
+                                "Sina's uterine capacity increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -40645,7 +40141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナはゴブリンに \\V[19] 回 腸内射精を受けた"
+                                "Sina received \\V[19] instances of anal ejaculation\nfrom a goblin"
                             ]
                         },
                         {
@@ -41025,7 +40521,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナはゴブリンの精子を受精したようだ。"
+                                "Sina seems to have been fertilized by goblin\nsperm."
                             ]
                         },
                         {
@@ -41064,7 +40560,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "シーナは初めての受精を経験した。"
+                                "Sina: Sina experienced her first fertilization."
                             ]
                         },
                         {
@@ -41141,7 +40637,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは催淫状態になっているようだ。"
+                                "Sina: Sina seems to be in an aphrodisiac state."
                             ]
                         },
                         {
@@ -41313,7 +40809,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナはゴブリンに \\V[19] 回 膣内射精を受けた"
+                                "Helena received vaginal ejaculation from a goblin\n\\V[19] times"
                             ]
                         },
                         {
@@ -41353,7 +40849,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは子宮に限界以上の大量射精を受けた"
+                                "Helena received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -41370,7 +40866,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナの子宮の最大容量が \\V[391] ml増加した"
+                                "Helena's uterine capacity increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -41498,7 +40994,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナはゴブリンに \\V[19] 回 腸内射精を受けた"
+                                "Helena received \\V[19] instances of anal\nejaculation from a goblin"
                             ]
                         },
                         {
@@ -41878,7 +41374,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナはゴブリンの精子を受精したようだ。"
+                                "Helena: It seems Helena has been fertilized by\ngoblin sperm."
                             ]
                         },
                         {
@@ -41917,7 +41413,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ヘレナは初めての受精を経験した。"
+                                "Helena: Helena experienced her first\nfertilization."
                             ]
                         },
                         {
@@ -41994,7 +41490,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは催淫状態になっているようだ。"
+                                "Helena: It seems Helena is in an aphrodisiac\nstate."
                             ]
                         },
                         {
@@ -42106,7 +41602,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコはゴブリンに処女を捧げた"
+                                "Miko offered her virginity to a goblin."
                             ]
                         },
                         {
@@ -42234,7 +41730,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミコはゴブリンに \\V[19] 回 膣内射精を受けた"
+                                "Miko received vaginal ejaculation from a goblin\n\\V[19] times"
                             ]
                         },
                         {
@@ -42274,7 +41770,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコは子宮に限界以上の大量射精を受けた"
+                                "Miko received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -42291,7 +41787,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコの子宮の最大容量が \\V[391] ml増加した"
+                                "Miko's uterine capacity increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -42419,7 +41915,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミコはゴブリンに \\V[19] 回 腸内射精を受けた"
+                                "Miko received \\V[19] instances of anal ejaculation\nfrom a goblin"
                             ]
                         },
                         {
@@ -42799,7 +42295,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコはゴブリンの精子を受精したようだ。"
+                                "Miko seems to have been fertilized by goblin\nsperm."
                             ]
                         },
                         {
@@ -42838,7 +42334,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ミコは初めての受精を経験した。"
+                                "Miko: Miko experienced her first fertilization."
                             ]
                         },
                         {
@@ -42915,7 +42411,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコは催淫状態になっているようだ。"
+                                "Miko: It seems Miko is in an aphrodisiac state."
                             ]
                         },
                         {
@@ -43005,7 +42501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[5]は足元がおぼつかないパーティーたちが帰っていくのを見届けた。"
+                                "\\N[5] watched as the unsteady party members left."
                             ]
                         },
                         {
@@ -43770,14 +43266,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -43794,14 +43283,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、もどりました」"
+                                "\\F[r141]Ricca: ......I'm back"
                             ]
                         },
                         {
@@ -43839,14 +43321,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -43863,14 +43338,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、\\N[5]さんが、、、」"
+                                "\\F[r141]Ricca: ......\\N[5]-san..."
                             ]
                         },
                         {
@@ -43887,14 +43355,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、無事でよかった」"
+                                "\\F[r141]Ricca: Thank goodness, you're safe."
                             ]
                         },
                         {
@@ -43992,14 +43453,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ううぅ、、」"
+                                "\\F[s37]Sina: ......Ugh......"
                             ]
                         },
                         {
@@ -44016,14 +43470,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、もう、、、」"
+                                "\\F[s37]Sina: ......Geez......"
                             ]
                         },
                         {
@@ -44040,14 +43487,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、お嫁にいけません」"
+                                "\\F[s37]Sina: ......I can't get married."
                             ]
                         },
                         {
@@ -44085,14 +43525,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[s37]Sina: ......"
                             ]
                         },
                         {
@@ -44109,14 +43542,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、なにも、聞かないで、、、」"
+                                "\\F[s37]Sina: ......Please, don't ask anything......"
                             ]
                         },
                         {
@@ -44133,14 +43559,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]さんには言えない、、、」"
+                                "\\F[s37]Sina: ......I can't tell \\N[5]-san......"
                             ]
                         },
                         {
@@ -44238,14 +43657,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -44262,14 +43674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、生きて、、、」"
+                                "\\F[h25]Helena: ......Thank goodness, you're alive......"
                             ]
                         },
                         {
@@ -44286,14 +43691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、また会えたんだから、、、ね」"
+                                "\\F[h25]Helena: We were able to meet again, after all."
                             ]
                         },
                         {
@@ -44331,14 +43729,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -44355,14 +43746,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]くん、、、」"
+                                "\\F[h25]Sina: ......\\N[5]-kun......"
                             ]
                         },
                         {
@@ -44379,14 +43763,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、姿がなくて、、心配してたんだから、、、」"
+                                "\\F[h25]Sina: ......I was worried because I couldn't see\nyou......"
                             ]
                         },
                         {
@@ -44484,14 +43861,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -44508,14 +43878,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ぷい」"
+                                "\\F[m25]Miko: ......phew"
                             ]
                         },
                         {
@@ -44553,14 +43916,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -44577,14 +43933,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m22]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m22]Miko: ......"
                             ]
                         },
                         {
@@ -44601,14 +43950,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -44625,14 +43967,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、ぎゅ、する」"
+                                "\\F[m35]Miko: ......*squeeze*..."
                             ]
                         },
                         {
@@ -44649,7 +43984,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]\\N[5]はミコを抱きしめた。"
+                                "\\F[m35]\\N[5] hugged Miko."
                             ]
                         },
                         {
@@ -44917,7 +44252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカは巨大蜘蛛に \\V[19] 回 膣内射精を受けた"
+                                "Ricca: Ricca received vaginal ejaculation \\V[19]\ntimes from the giant spider"
                             ]
                         },
                         {
@@ -44957,7 +44292,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは子宮に限界以上の大量射精を受けた"
+                                "Ricca received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -44974,7 +44309,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカの子宮の最大容量が \\V[391] ml増加した"
+                                "Ricca's uterine capacity increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -45102,7 +44437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカは巨大蜘蛛に \\V[19] 回 腸内射精を受けた"
+                                "Ricca received \\V[19] instances of internal\nejaculation from the giant spider"
                             ]
                         },
                         {
@@ -45482,7 +44817,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは巨大蜘蛛の精子を受精したようだ。"
+                                "It seems like Ricca was fertilized by the giant\nspider's sperm."
                             ]
                         },
                         {
@@ -45521,7 +44856,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "リッカは初めての受精を経験した。"
+                                "Ricca experienced her first fertilization."
                             ]
                         },
                         {
@@ -45598,7 +44933,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは催淫状態になっているようだ。"
+                                "It seems like Ricca is in a state of arousal."
                             ]
                         },
                         {
@@ -45682,7 +45017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは巨大蜘蛛に処女を捧げた"
+                                "Sina sacrificed her virginity to a giant spider."
                             ]
                         },
                         {
@@ -45810,7 +45145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナは巨大蜘蛛に \\V[19] 回 膣内射精を受けた"
+                                "Sina received vaginal ejaculation \\V[19] times\nfrom the giant spider"
                             ]
                         },
                         {
@@ -45850,7 +45185,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは子宮に限界以上の大量射精を受けた"
+                                "Sina received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -45867,7 +45202,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナの子宮の最大容量が \\V[391] ml増加した"
+                                "Sina's uterine capacity increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -45995,7 +45330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナは巨大蜘蛛に \\V[19] 回 腸内射精を受けた"
+                                "Sina received \\V[19] instances of internal\nejaculation from the giant spider"
                             ]
                         },
                         {
@@ -46375,7 +45710,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは巨大蜘蛛の精子を受精したようだ。"
+                                "It seems like Sina was fertilized by the giant\nspider's sperm."
                             ]
                         },
                         {
@@ -46414,7 +45749,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "シーナは初めての受精を経験した。"
+                                "Sina experienced her first fertilization."
                             ]
                         },
                         {
@@ -46491,7 +45826,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは催淫状態になっているようだ。"
+                                "Sina is in a state of arousal."
                             ]
                         },
                         {
@@ -46663,7 +45998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナは巨大蜘蛛に \\V[19] 回 膣内射精を受けた"
+                                "Helena received \\V[19] instances of vaginal\nejaculation from the giant spider"
                             ]
                         },
                         {
@@ -46703,7 +46038,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは子宮に限界以上の大量射精を受けた"
+                                "Helena received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -46720,7 +46055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナの子宮の最大容量が \\V[391] ml増加した"
+                                "Helena's uterine capacity increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -46848,7 +46183,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナは巨大蜘蛛に \\V[19] 回 腸内射精を受けた"
+                                "Helena received \\V[19] instances of internal\nejaculation from the giant spider"
                             ]
                         },
                         {
@@ -47228,7 +46563,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは巨大蜘蛛の精子を受精したようだ。"
+                                "Helena: It seems like Helena was fertilized by the\ngiant spider's sperm."
                             ]
                         },
                         {
@@ -47267,7 +46602,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ヘレナは初めての受精を経験した。"
+                                "Helena experienced her first fertilization."
                             ]
                         },
                         {
@@ -47344,7 +46679,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは催淫状態になっているようだ。"
+                                "Helena is in a state of arousal."
                             ]
                         },
                         {
@@ -47456,7 +46791,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコは巨大蜘蛛に処女を捧げた"
+                                "Miko dedicated her virginity to the giant spider."
                             ]
                         },
                         {
@@ -47584,7 +46919,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミコは巨大蜘蛛に \\V[19] 回 膣内射精を受けた"
+                                "Miko received \\V[19] instances of vaginal\nejaculation from the giant spider"
                             ]
                         },
                         {
@@ -47624,7 +46959,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコは子宮に限界以上の大量射精を受けた"
+                                "Miko received an excessive amount of ejaculation\nbeyond the limit in her uterus."
                             ]
                         },
                         {
@@ -47641,7 +46976,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコの子宮の最大容量が \\V[391] ml増加した"
+                                "Miko's uterine capacity increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -47769,7 +47104,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミコは巨大蜘蛛に \\V[19] 回 腸内射精を受けた"
+                                "Miko received \\V[19] instances of internal\nejaculation from the giant spider"
                             ]
                         },
                         {
@@ -48149,7 +47484,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコは巨大蜘蛛の精子を受精したようだ。"
+                                "It seems like Miko was fertilized by the giant\nspider's sperm."
                             ]
                         },
                         {
@@ -48188,7 +47523,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ミコは初めての受精を経験した。"
+                                "Miko experienced her first fertilization."
                             ]
                         },
                         {
@@ -48265,7 +47600,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコは催淫状態になっているようだ。"
+                                "It seems like Miko is in a state of arousal."
                             ]
                         },
                         {
@@ -48355,7 +47690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[5]は足元がおぼつかないパーティーたちが帰っていくのを見届けた。"
+                                "\\N[5] watched as the unsteady party members\nreturned."
                             ]
                         },
                         {
@@ -49115,14 +48450,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -49139,14 +48467,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、もどりました」"
+                                "\\F[r141]Ricca: ......I'm back."
                             ]
                         },
                         {
@@ -49184,14 +48505,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -49208,14 +48522,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、\\N[5]さんが、、、」"
+                                "\\F[r141]Ricca: ......\\N[5]-san..."
                             ]
                         },
                         {
@@ -49232,14 +48539,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、無事でよかった」"
+                                "\\F[r141]Ricca: Thank goodness, you're safe."
                             ]
                         },
                         {
@@ -49337,14 +48637,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ううぅ、、」"
+                                "\\F[s37]Sina: ......Ugh......"
                             ]
                         },
                         {
@@ -49361,14 +48654,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、もう、、、」"
+                                "\\F[s37]Sina: ......Geez......"
                             ]
                         },
                         {
@@ -49385,14 +48671,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、お嫁にいけません」"
+                                "\\F[s37]Sina: ......I can't get married."
                             ]
                         },
                         {
@@ -49430,14 +48709,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[s37]Sina: ......"
                             ]
                         },
                         {
@@ -49454,14 +48726,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、なにも、聞かないで、、、」"
+                                "\\F[s37]Sina: ......Please, don't ask anything......"
                             ]
                         },
                         {
@@ -49478,14 +48743,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]さんには言えない、、、」"
+                                "\\F[s37]Sina: ......I can't tell \\N[5]-san......"
                             ]
                         },
                         {
@@ -49583,14 +48841,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -49607,14 +48858,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、生きて、、、」"
+                                "\\F[h25]Helena: ......Thank goodness, you're alive......"
                             ]
                         },
                         {
@@ -49631,14 +48875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、また会えたんだから、、、ね」"
+                                "\\F[h25]Helena: We were able to meet again, after all."
                             ]
                         },
                         {
@@ -49676,14 +48913,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -49700,14 +48930,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]くん、、、」"
+                                "\\F[h25]Sina: ......\\N[5]-kun......"
                             ]
                         },
                         {
@@ -49724,14 +48947,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、姿がなくて、、心配してたんだから、、、」"
+                                "\\F[h25]Sina: ......I was worried because you were\nnowhere to be found......"
                             ]
                         },
                         {
@@ -49829,14 +49045,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -49853,14 +49062,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ぷい」"
+                                "\\F[m25]Miko: ......phew"
                             ]
                         },
                         {
@@ -49898,14 +49100,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -49922,14 +49117,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m22]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m22]Miko: ......"
                             ]
                         },
                         {
@@ -49946,14 +49134,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -49970,14 +49151,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、ぎゅ、する」"
+                                "\\F[m35]Miko: ......*squeeze*..."
                             ]
                         },
                         {
@@ -49994,7 +49168,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]\\N[5]はミコを抱きしめた。"
+                                "\\F[m35]\\N[5] hugged Miko."
                             ]
                         },
                         {
@@ -50072,7 +49246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パーティーたちからの好感度が大きく減少した"
+                                "The favorability rating from the party members has\ndecreased significantly"
                             ]
                         },
                         {
@@ -50134,7 +49308,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカはエビルプラントに処女を捧げた"
+                                "Ricca offered her virginity to the Evil Plant"
                             ]
                         },
                         {
@@ -50262,7 +49436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカはエビルプラントに \\V[19] 回 膣内射精を受けた"
+                                "Ricca: Ricca received vaginal ejaculation from the\nEvil Plant \\V[19] times"
                             ]
                         },
                         {
@@ -50302,7 +49476,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは子宮に限界以上の大量射精を受けた"
+                                "Ricca received an excessive amount of ejaculation\nin her womb"
                             ]
                         },
                         {
@@ -50319,7 +49493,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカの子宮の最大容量が \\V[391] ml増加した"
+                                "Ricca's womb capacity has increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -50447,7 +49621,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカはエビルプラントに \\V[19] 回 腸内射精を受けた"
+                                "Ricca received \\V[19] instances of anal\nejaculation from the Evil Plant"
                             ]
                         },
                         {
@@ -50827,7 +50001,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカはエビルプラントの精子を受精したようだ。"
+                                "It seems that Ricca has been impregnated by the\nEvil Plant."
                             ]
                         },
                         {
@@ -50866,7 +50040,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "リッカは初めての受精を経験した。"
+                                "Ricca: Ricca experienced her first fertilization."
                             ]
                         },
                         {
@@ -50943,7 +50117,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは催淫状態になっているようだ。"
+                                "Ricca seems to be in a state of arousal."
                             ]
                         },
                         {
@@ -51027,7 +50201,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナはエビルプラントに処女を捧げた"
+                                "Sina offered her virginity to the Evil Plant"
                             ]
                         },
                         {
@@ -51155,7 +50329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナはエビルプラントに \\V[19] 回 膣内射精を受けた"
+                                "Sina received vaginal ejaculation from the Evil\nPlant \\V[19] times"
                             ]
                         },
                         {
@@ -51195,7 +50369,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは子宮に限界以上の大量射精を受けた"
+                                "Sina received an excessive amount of ejaculation\nin her womb"
                             ]
                         },
                         {
@@ -51212,7 +50386,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナの子宮の最大容量が \\V[391] ml増加した"
+                                "Sina's womb capacity has increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -51340,7 +50514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナはエビルプラントに \\V[19] 回 腸内射精を受けた"
+                                "Sina received \\V[19] instances of anal ejaculation\nfrom the Evil Plant"
                             ]
                         },
                         {
@@ -51720,7 +50894,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナはエビルプラントの精子を受精したようだ。"
+                                "Sina seems to have been fertilized by the Evil\nPlant."
                             ]
                         },
                         {
@@ -51759,7 +50933,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "シーナは初めての受精を経験した。"
+                                "Sina: Sina experienced her first fertilization."
                             ]
                         },
                         {
@@ -51836,7 +51010,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは催淫状態になっているようだ。"
+                                "Sina seems to be in a state of arousal."
                             ]
                         },
                         {
@@ -52008,7 +51182,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナはエビルプラントに \\V[19] 回 膣内射精を受けた"
+                                "Helena received vaginal ejaculation from the Evil\nPlant \\V[19] times"
                             ]
                         },
                         {
@@ -52048,7 +51222,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは子宮に限界以上の大量射精を受けた"
+                                "Helena received an excessive amount of ejaculation\nin her womb"
                             ]
                         },
                         {
@@ -52065,7 +51239,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナの子宮の最大容量が \\V[391] ml増加した"
+                                "Helena's womb capacity has increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -52193,7 +51367,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナはエビルプラントに \\V[19] 回 腸内射精を受けた"
+                                "Helena received \\V[19] instances of anal\nejaculation from the Evil Plant"
                             ]
                         },
                         {
@@ -52573,7 +51747,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナはエビルプラントの精子を受精したようだ。"
+                                "Helena seems to have been fertilized by the Evil\nPlant."
                             ]
                         },
                         {
@@ -52612,7 +51786,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ヘレナは初めての受精を経験した。"
+                                "Helena: Helena experienced her first\nfertilization."
                             ]
                         },
                         {
@@ -52689,7 +51863,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは催淫状態になっているようだ。"
+                                "Helena seems to be in a state of arousal."
                             ]
                         },
                         {
@@ -52801,7 +51975,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコはエビルプラントに処女を捧げた"
+                                "Miko offered her virginity to the Evil Plant."
                             ]
                         },
                         {
@@ -52929,7 +52103,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミコはエビルプラントに \\V[19] 回 膣内射精を受けた"
+                                "Miko received vaginal ejaculation from the Evil\nPlant \\V[19] times"
                             ]
                         },
                         {
@@ -52969,7 +52143,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコは子宮に限界以上の大量射精を受けた"
+                                "Miko received an excessive amount of ejaculation\nin her womb"
                             ]
                         },
                         {
@@ -52986,7 +52160,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコの子宮の最大容量が \\V[391] ml増加した"
+                                "Miko's womb capacity has increased by \\V[391] ml"
                             ]
                         },
                         {
@@ -53114,7 +52288,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミコはエビルプラントに \\V[19] 回 腸内射精を受けた"
+                                "Miko received \\V[19] instances of anal ejaculation\nfrom the Evil Plant"
                             ]
                         },
                         {
@@ -53494,7 +52668,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコはエビルプラントの精子を受精したようだ。"
+                                "It seems like Miko has been fertilized by the Evil\nPlant."
                             ]
                         },
                         {
@@ -53533,7 +52707,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ミコは初めての受精を経験した。"
+                                "Miko experienced her first fertilization."
                             ]
                         },
                         {
@@ -53610,7 +52784,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ミコは催淫状態になっているようだ。"
+                                "It seems like Miko is in a state of arousal."
                             ]
                         },
                         {
@@ -53700,7 +52874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[5]は足元がおぼつかないパーティーたちが帰っていくのを見届けた。"
+                                "\\N[5] watched as the unsteady party members\nreturned."
                             ]
                         },
                         {
@@ -54460,14 +53634,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ..."
                             ]
                         },
                         {
@@ -54484,14 +53651,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、もどりました」"
+                                "\\F[r141]Ricca: ......I'm back."
                             ]
                         },
                         {
@@ -54529,14 +53689,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -54553,14 +53706,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、\\N[5]さんが、、、」"
+                                "\\F[r141]Ricca: \\N[5]-san..."
                             ]
                         },
                         {
@@ -54577,14 +53723,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、無事でよかった」"
+                                "\\F[r141]Ricca: Thank goodness, you're safe."
                             ]
                         },
                         {
@@ -54682,14 +53821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ううぅ、、」"
+                                "\\F[s37]Sina: ......uuu..."
                             ]
                         },
                         {
@@ -54706,14 +53838,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、もう、、、」"
+                                "\\F[s37]Sina: ......ugh..."
                             ]
                         },
                         {
@@ -54730,14 +53855,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、お嫁にいけません」"
+                                "\\F[s37]Sina: ......I can't get married."
                             ]
                         },
                         {
@@ -54775,14 +53893,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[s37]Sina: ......"
                             ]
                         },
                         {
@@ -54799,14 +53910,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、なにも、聞かないで、、、」"
+                                "\\F[s37]Sina: ......don't ask me anything......"
                             ]
                         },
                         {
@@ -54823,14 +53927,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]さんには言えない、、、」"
+                                "\\F[s37]Sina: ......I can't tell \\N[5]-san......"
                             ]
                         },
                         {
@@ -54928,14 +54025,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -54952,14 +54042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、生きて、、、」"
+                                "\\F[h25]Helena: ......thank goodness, you're alive......"
                             ]
                         },
                         {
@@ -54976,14 +54059,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、また会えたんだから、、、ね」"
+                                "\\F[h25]Helena: ......I'm glad we could meet again......"
                             ]
                         },
                         {
@@ -55021,14 +54097,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -55045,14 +54114,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]くん、、、」"
+                                "\\F[h25]Sina: ......\\N[5]-kun......"
                             ]
                         },
                         {
@@ -55069,14 +54131,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、姿がなくて、、心配してたんだから、、、」"
+                                "\\F[h25]Sina: ......I was worried because you weren't\naround......"
                             ]
                         },
                         {
@@ -55174,14 +54229,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -55198,14 +54246,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ぷい」"
+                                "\\F[m25]Miko: ......phew"
                             ]
                         },
                         {
@@ -55243,14 +54284,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -55267,14 +54301,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m22]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m22]Miko: ......"
                             ]
                         },
                         {
@@ -55291,14 +54318,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -55315,14 +54335,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、ぎゅ、する」"
+                                "\\F[m35]Miko: ......*squeeze*..."
                             ]
                         },
                         {
@@ -55339,7 +54352,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]\\N[5]はミコを抱きしめた。"
+                                "\\F[m35]\\N[5] hugged Miko."
                             ]
                         },
                         {
@@ -55417,7 +54430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パーティーたちからの好感度が大きく減少した"
+                                "The favorability rating from the party members has\ndecreased significantly"
                             ]
                         },
                         {
@@ -55479,7 +54492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは魔犬に処女を捧げた"
+                                "Ricca offered her virginity to the hellhound"
                             ]
                         },
                         {
@@ -55607,7 +54620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカは魔犬に \\V[19] 回 膣内射精を受けた"
+                                "Ricca: Ricca received vaginal ejaculation from the\nhellhound \\V[19] times"
                             ]
                         },
                         {
@@ -55647,7 +54660,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは子宮に限界以上の大量射精を受けた"
+                                "Ricca received an excessive amount of ejaculation\nin her uterus"
                             ]
                         },
                         {
@@ -55664,7 +54677,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカの子宮の最大容量が \\V[391] ml増加した"
+                                "Ricca's uterine capacity has increased by \\V[391]\nml"
                             ]
                         },
                         {
@@ -55792,7 +54805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカは魔犬に \\V[19] 回 腸内射精を受けた"
+                                "Ricca received \\V[19] anal ejaculations from the\nhellhound"
                             ]
                         },
                         {
@@ -56172,7 +55185,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは魔犬の精子を受精したようだ。"
+                                "It seems like Ricca has been impregnated by the\nhellhound."
                             ]
                         },
                         {
@@ -56211,7 +55224,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "リッカは初めての受精を経験した。"
+                                "Ricca: Ricca experienced her first fertilization."
                             ]
                         },
                         {
@@ -56288,7 +55301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは催淫状態になっているようだ。"
+                                "It seems like Ricca is in a state of arousal."
                             ]
                         },
                         {
@@ -56372,7 +55385,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは魔犬に処女を捧げた"
+                                "Sina offered her virginity to the hellhound"
                             ]
                         },
                         {
@@ -56500,7 +55513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナは魔犬に \\V[19] 回 膣内射精を受けた"
+                                "Sina received vaginal ejaculation from the\nhellhound \\V[19] times"
                             ]
                         },
                         {
@@ -56540,7 +55553,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは子宮に限界以上の大量射精を受けた"
+                                "Sina received an excessive amount of ejaculation\nin her uterus"
                             ]
                         },
                         {
@@ -56557,7 +55570,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナの子宮の最大容量が \\V[391] ml増加した"
+                                "Sina's uterine capacity has increased by \\V[391]\nml"
                             ]
                         },
                         {
@@ -56685,7 +55698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナは魔犬に \\V[19] 回 腸内射精を受けた"
+                                "Sina received \\V[19] anal ejaculations from the\nhellhound"
                             ]
                         },
                         {
@@ -57065,7 +56078,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは魔犬の精子を受精したようだ。"
+                                "Sina: It seems like Sina has been impregnated by\nthe hellhound."
                             ]
                         },
                         {
@@ -57104,7 +56117,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "シーナは初めての受精を経験した。"
+                                "Sina: Sina experienced her first fertilization."
                             ]
                         },
                         {
@@ -57181,7 +56194,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは催淫状態になっているようだ。"
+                                "Sina is in a state of arousal."
                             ]
                         },
                         {
@@ -57344,7 +56357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘレナは魔犬に \\V[19] 回 膣内射精を受けた"
+                                "Helena received vaginal ejaculation from the\nhellhound \\V[19] times"
                             ]
                         },
                         {
@@ -57384,7 +56397,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナは子宮に限界以上の大量射精を受けた"
+                                "Helena received an excessive amount of ejaculation\nin her uterus"
                             ]
                         },
                         {
@@ -57401,7 +56414,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナの子宮の最大容量が \\V[391] ml増加した"
+                                "Helena's uterine capacity has increased by \\V[391]\nml"
                             ]
                         },
                         {
@@ -57529,7 +56542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘレナは魔犬に \\V[19] 回 腸内射精を受けた"
+                                "Helena received \\V[19] anal ejaculations from the\nhellhound"
                             ]
                         },
                         {
@@ -57909,7 +56922,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナは魔犬の精子を受精したようだ。"
+                                "Helena: It seems like Helena has been fertilized\nby the hellhound."
                             ]
                         },
                         {
@@ -57948,7 +56961,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは初めての受精を経験した。"
+                                "Helena: Helena experienced her first\nfertilization."
                             ]
                         },
                         {
@@ -58025,7 +57038,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナは催淫状態になっているようだ。"
+                                "Helena is in a state of arousal."
                             ]
                         },
                         {
@@ -58109,7 +57122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコは魔犬に処女を捧げた"
+                                "Miko offered her virginity to the hellhound."
                             ]
                         },
                         {
@@ -58237,7 +57250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミコは魔犬に \\V[19] 回 膣内射精を受けた"
+                                "Miko received vaginal ejaculation from the\nhellhound \\V[19] times"
                             ]
                         },
                         {
@@ -58277,7 +57290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコは子宮に限界以上の大量射精を受けた"
+                                "Miko received an excessive amount of ejaculation\nin her uterus"
                             ]
                         },
                         {
@@ -58294,7 +57307,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコの子宮の最大容量が \\V[391] ml増加した"
+                                "Miko's uterine capacity has increased by \\V[391]\nml"
                             ]
                         },
                         {
@@ -58422,7 +57435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミコは魔犬に \\V[19] 回 腸内射精を受けた"
+                                "Miko received \\V[19] anal ejaculations from the\nhellhound"
                             ]
                         },
                         {
@@ -58802,7 +57815,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコは魔犬の精子を受精したようだ。"
+                                "Miko seems to have been fertilized by the\nhellhound."
                             ]
                         },
                         {
@@ -58841,7 +57854,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミコは初めての受精を経験した。"
+                                "Miko: Miko has experienced her first\nfertilization."
                             ]
                         },
                         {
@@ -58918,7 +57931,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコは催淫状態になっているようだ。"
+                                "Miko is in a state of arousal."
                             ]
                         },
                         {
@@ -58988,7 +58001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[5]は足元がおぼつかないパーティーたちが帰っていくのを見届けた。"
+                                "\\N[5] watched as the unsteady party members\nreturned home."
                             ]
                         },
                         {
@@ -59748,14 +58761,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -59772,14 +58778,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、もどりました」"
+                                "\\F[r141]Ricca: ......I'm back."
                             ]
                         },
                         {
@@ -59817,14 +58816,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、」"
+                                "\\F[r141]Ricca: ......"
                             ]
                         },
                         {
@@ -59841,14 +58833,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、\\N[5]さんが、、、」"
+                                "\\F[r141]Ricca: \\N[5]-san is..."
                             ]
                         },
                         {
@@ -59865,14 +58850,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[r141]リッカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、無事でよかった」"
+                                "\\F[r141]Ricca: Thank goodness, he's safe."
                             ]
                         },
                         {
@@ -59970,14 +58948,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ううぅ、、」"
+                                "\\F[s37]Sina: ......Ugh......"
                             ]
                         },
                         {
@@ -59994,14 +58965,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、もう、、、」"
+                                "\\F[s37]Sina: ......Geez......"
                             ]
                         },
                         {
@@ -60018,14 +58982,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、お嫁にいけません」"
+                                "\\F[s37]Sina: ......I can't get married."
                             ]
                         },
                         {
@@ -60063,14 +59020,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[s37]Sina: ......"
                             ]
                         },
                         {
@@ -60087,14 +59037,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、なにも、聞かないで、、、」"
+                                "\\F[s37]Sina: ......Please, don't ask anything......"
                             ]
                         },
                         {
@@ -60111,14 +59054,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[s37]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]さんには言えない、、、」"
+                                "\\F[s37]Sina: ......I can't tell \\N[5]-san......"
                             ]
                         },
                         {
@@ -60216,14 +59152,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -60240,14 +59169,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、生きて、、、」"
+                                "\\F[h25]Helena: ......Alive......"
                             ]
                         },
                         {
@@ -60264,14 +59186,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、また会えたんだから、、、ね」"
+                                "\\F[h25]Helena: ......Because we can meet\nagain......right?"
                             ]
                         },
                         {
@@ -60309,14 +59224,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[h25]Helena: ......"
                             ]
                         },
                         {
@@ -60333,14 +59241,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、\\N[5]くん、、、」"
+                                "\\F[h25]Sina: ......\\N[5]-kun......"
                             ]
                         },
                         {
@@ -60357,14 +59258,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[h25]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、姿がなくて、、心配してたんだから、、、」"
+                                "\\F[h25]Sina: ......I was worried because you weren't\naround......"
                             ]
                         },
                         {
@@ -60462,14 +59356,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -60486,14 +59373,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「、、、、ぷい」"
+                                "\\F[m25]Miko: ......pui"
                             ]
                         },
                         {
@@ -60531,14 +59411,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -60555,14 +59428,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m22]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m22]Miko: ......"
                             ]
                         },
                         {
@@ -60579,14 +59445,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m25]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、、」"
+                                "\\F[m25]Miko: ......"
                             ]
                         },
                         {
@@ -60603,14 +59462,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]ミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「、、、、、ぎゅ、する」"
+                                "\\F[m35]Miko: ......*hug*......"
                             ]
                         },
                         {
@@ -60627,7 +59479,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\F[m35]\\N[5]はミコを抱きしめた。"
+                                "\\F[m35]\\N[5] hugged Miko."
                             ]
                         },
                         {
@@ -60705,7 +59557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パーティーたちからの好感度が大きく減少した"
+                                "The favorability rating from the party members has\ndecreased significantly"
                             ]
                         },
                         {
@@ -60767,7 +59619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカはミノタウロスに処女を捧げた"
+                                "Ricca offered her virginity to the Minotaur"
                             ]
                         },
                         {
@@ -60895,7 +59747,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカはミノタウロスに \\V[19] 回 膣内射精を受けた"
+                                "Ricca: Ricca received vaginal ejaculation from the\nMinotaur \\V[19] times"
                             ]
                         },
                         {
@@ -60935,7 +59787,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは子宮に限界以上の大量射精を受けた"
+                                "Ricca received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -60952,7 +59804,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカの子宮の最大容量が \\V[391] ml増加した"
+                                "Ricca's uterine capacity has increased by \\V[391]\nml"
                             ]
                         },
                         {
@@ -61080,7 +59932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リッカはミノタウロスに \\V[19] 回 腸内射精を受けた"
+                                "Ricca received \\V[19] instances of anal\nejaculation from the Minotaur"
                             ]
                         },
                         {
@@ -61460,7 +60312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカはミノタウロスの精子を受精したようだ。"
+                                "It seems that Ricca has been impregnated by the\nMinotaur."
                             ]
                         },
                         {
@@ -61499,7 +60351,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "リッカは初めての受精を経験した。"
+                                "Ricca: Ricca experienced her first fertilization."
                             ]
                         },
                         {
@@ -61576,7 +60428,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リッカは催淫状態になっているようだ。"
+                                "It seems that Ricca is in a state of arousal."
                             ]
                         },
                         {
@@ -61660,7 +60512,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナはミノタウロスに処女を捧げた"
+                                "Sina offered her virginity to the Minotaur"
                             ]
                         },
                         {
@@ -61788,7 +60640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナはミノタウロスに \\V[19] 回 膣内射精を受けた"
+                                "Sina received vaginal ejaculation from the\nMinotaur \\V[19] times"
                             ]
                         },
                         {
@@ -61828,7 +60680,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは子宮に限界以上の大量射精を受けた"
+                                "Sina received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -61845,7 +60697,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナの子宮の最大容量が \\V[391] ml増加した"
+                                "Sina's uterine capacity has increased by \\V[391]\nml"
                             ]
                         },
                         {
@@ -61973,7 +60825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーナはミノタウロスに \\V[19] 回 腸内射精を受けた"
+                                "Sina received \\V[19] instances of anal ejaculation\nfrom the Minotaur"
                             ]
                         },
                         {
@@ -62353,7 +61205,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナはミノタウロスの精子を受精したようだ。"
+                                "It seems that Sina has been fertilized by the\nMinotaur."
                             ]
                         },
                         {
@@ -62392,7 +61244,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "シーナは初めての受精を経験した。"
+                                "Sina: Sina experienced her first fertilization."
                             ]
                         },
                         {
@@ -62469,7 +61321,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シーナは催淫状態になっているようだ。"
+                                "Sina is in a state of arousal."
                             ]
                         },
                         {
@@ -62632,7 +61484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘレナはミノタウロスに \\V[19] 回 膣内射精を受けた"
+                                "Helena received vaginal ejaculation from the\nMinotaur \\V[19] times"
                             ]
                         },
                         {
@@ -62672,7 +61524,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナは子宮に限界以上の大量射精を受けた"
+                                "Helena received an excessive amount of ejaculation\nbeyond the limit in her uterus"
                             ]
                         },
                         {
@@ -62689,7 +61541,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナの子宮の最大容量が \\V[391] ml増加した"
+                                "Helena's uterine capacity has increased by \\V[391]\nml"
                             ]
                         },
                         {
@@ -62817,7 +61669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘレナはミノタウロスに \\V[19] 回 腸内射精を受けた"
+                                "Helena received \\V[19] instances of anal\nejaculation from the Minotaur"
                             ]
                         },
                         {
@@ -63197,7 +62049,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナはミノタウロスの精子を受精したようだ。"
+                                "Helena seems to have been fertilized by the\nMinotaur."
                             ]
                         },
                         {
@@ -63236,7 +62088,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヘレナは初めての受精を経験した。"
+                                "Helena: Helena experienced her first\nfertilization."
                             ]
                         },
                         {
@@ -63313,7 +62165,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘレナは催淫状態になっているようだ。"
+                                "Helena is in a state of arousal."
                             ]
                         },
                         {
@@ -63397,7 +62249,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコはミノタウロスに処女を捧げた"
+                                "Miko offered her virginity to the Minotaur."
                             ]
                         },
                         {
@@ -63525,7 +62377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミコはミノタウロスに \\V[19] 回 膣内射精を受けた"
+                                "Miko received vaginal ejaculation from the\nMinotaur \\V[19] times"
                             ]
                         },
                         {
@@ -63565,7 +62417,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコは子宮に限界以上の大量射精を受けた"
+                                "Miko received an excessive amount of ejaculation\nbeyond the limit in her uterus."
                             ]
                         },
                         {
@@ -63582,7 +62434,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコの子宮の最大容量が \\V[391] ml増加した"
+                                "Miko's uterine capacity has increased by \\V[391]\nml"
                             ]
                         },
                         {
@@ -63710,7 +62562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミコはミノタウロスに \\V[19] 回 腸内射精を受けた"
+                                "Miko received \\V[19] instances of anal ejaculation\nfrom the Minotaur."
                             ]
                         },
                         {
@@ -64090,7 +62942,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコはミノタウロスの精子を受精したようだ。"
+                                "Miko seems to have been fertilized by the\nMinotaur."
                             ]
                         },
                         {
@@ -64129,7 +62981,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミコは初めての受精を経験した。"
+                                "Miko: Miko experienced her first fertilization."
                             ]
                         },
                         {
@@ -64206,7 +63058,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミコは催淫状態になっているようだ。"
+                                "Miko is in a state of arousal."
                             ]
                         },
                         {
@@ -64276,7 +63128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[5]は足元がおぼつかないパーティーたちが帰っていくのを見届けた。"
+                                "\\N[5] watched as the unsteady party members left."
                             ]
                         },
                         {
@@ -65864,7 +64716,7 @@
                                     "Skill [Self-destruct]【10】if(s[881])",
                                     "Pregnancy probability UP at medium risk【20】if(s[882])",
                                     "Pregnancy probability during ovulation UP【20】if(s[883])",
-                                    "The ability to see through...?【20】if(s[884])",
+                                    "The ability to see through?【20】if(s[884])",
                                     "Special Item [Bomb]【20】if(s[885])",
                                     "Skill【Ovulation】【20】if(s[886])"
                                 ],
@@ -67223,8 +66075,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -67583,8 +66435,8 @@
                                     "Skill [Undressing Command]【30】if(s[888])",
                                     "Children's growth (strong enemies appear)【30】if(s[889])",
                                     "Enchanted Equipment【30】if(s[890])",
-                                    "Clairvoyance...? Off【0】if(s[891])",
-                                    "Clairvoyance...? On【0】if(s[892])"
+                                    "Clairvoyance? Off【0】if(s[891])",
+                                    "Clairvoyance? On【0】if(s[892])"
                                 ],
                                 -1,
                                 -1,
@@ -68645,8 +67497,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -68779,8 +67631,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -69440,7 +68292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "持っている”カケラ”の合計：\\V[491] 個"
+                                "Total Fragments Owned: \\V[491] pieces"
                             ]
                         },
                         {
@@ -70038,7 +68890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "成就した”願い事”の数：\\V[489] 個"
+                                "Number of wishes fulfilled: \\V[489] pieces"
                             ]
                         },
                         {
@@ -70089,7 +68941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロイン達のレベル：だいたい \\V[488] Lv"
+                                "Heroines' levels: around \\V[488] Lv"
                             ]
                         },
                         {
@@ -70617,7 +69469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリアしたエンディング： \\V[490] ／ 16"
+                                "Cleared Endings: \\V[490] / 16"
                             ]
                         },
                         {
@@ -70655,7 +69507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【このゲームデータから引き継げる 引継ぎポイントは、\\V[491] Pt です】"
+                                "【The transfer points that can be carried over from this game data are \\V[491] Pt】"
                             ]
                         },
                         {
@@ -70679,7 +69531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【現在プレイしているゲームデータを引継ぎデータとして記録しますか？】"
+                                "【Do you want to save the current game data as transfer data?】"
                             ]
                         },
                         {
@@ -70687,8 +69539,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -70736,7 +69588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【 \\V[492] Pt を引継ぎポイントとして新しいデータで遊ぶ際に使用できるようになりました】"
+                                "【\\V[492] Pt can now be used as an inheritance point when playing with new data】"
                             ]
                         },
                         {

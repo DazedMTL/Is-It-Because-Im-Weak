@@ -30885,7 +30885,7 @@
                                 [
                                     "I am",
                                     "Yes",
-                                    "I'm not a soldier..."
+                                    "I'm not a soldier"
                                 ],
                                 -1,
                                 0,
@@ -30966,8 +30966,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I don't have one.",
-                                    "I can't use any.",
+                                    "I don't have one",
+                                    "I can't use any",
                                     "A knife for self-defense..."
                                 ],
                                 -1,
@@ -31051,7 +31051,7 @@
                                 [
                                     "I can't fight",
                                     "I'm probably weaker than you",
-                                    "I'm sorry..."
+                                    "I'm sorry"
                                 ],
                                 -2,
                                 0,
@@ -31210,9 +31210,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "You don't have to be so blunt.",
-                                    "You've got some thorns.",
-                                    "I'll find what I can do as a scholar..."
+                                    "You don't have to be so blunt",
+                                    "You've got some thorns",
+                                    "I'll find what I can do as a scholar"
                                 ],
                                 -1,
                                 0,
@@ -31510,7 +31510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Kyaaaaーーー！！」"
+                                "「Kyaaaaーーー!!」"
                             ]
                         },
                         {
@@ -40648,9 +40648,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I-I'll protect you, probably.",
+                                    "I-I'll protect you, probably",
                                     "Let's have Ricca protect us together!",
-                                    "You're going to protect me."
+                                    "You're going to protect me"
                                 ],
                                 -1,
                                 -1,
@@ -45759,7 +45759,7 @@
                             "parameters": [
                                 [
                                     "Move away from helena",
-                                    "Press my head against her chest more.",
+                                    "Press my head against her chest more",
                                     "Press my hardened crotch against hers"
                                 ],
                                 -1,
@@ -51992,7 +51992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「It's another monsterーーーーー！！」"
+                                "「It's another monsterーーーーー!!」"
                             ]
                         },
                         {
@@ -55008,14 +55008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h3s]\\FF[s6s]\\AA[FF]シーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫？」"
+                                "\\F[h3s]Sina: Are you okay?"
                             ]
                         },
                         {
@@ -55032,14 +55025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h1s]\\FF[s6s]\\AA[F]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、寝てるだけみたいね。」"
+                                "\\F[h1s]Helena: Oh, it looks like she's just sleeping."
                             ]
                         },
                         {
@@ -55056,14 +55042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[h2s]\\FF[s1s]\\AA[F]ヘレナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「、、、かわいい寝顔。」"
+                                "\\F[h2s]Helena: Aww, such a cute sleeping face."
                             ]
                         },
                         {
@@ -55080,7 +55059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すう、、すう、、」"
+                                "Sigh...sigh..."
                             ]
                         },
                         {
@@ -59833,8 +59812,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -61350,7 +61329,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Close it.",
+                                    "Close it",
                                     "Skip the daytime"
                                 ],
                                 0,
@@ -63287,7 +63266,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【虹色のぐるぐるキャンディ】を入手した！"
+                                "【Rainbow Swirly Candy】Obtained!"
                             ]
                         },
                         {
@@ -63304,7 +63283,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【角の矢筒】を入手した！"
+                                "【Arrow's Quiver】Obtained!"
                             ]
                         },
                         {
@@ -63361,7 +63340,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -63444,7 +63423,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【けっこういいワイン】を入手した！"
+                                "【Pretty good wine】Obtained!"
                             ]
                         },
                         {
@@ -63461,7 +63440,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【レインの花の一輪挿し】を入手した！"
+                                "【Vase of Rain's Flowers】Obtained!"
                             ]
                         },
                         {
@@ -63518,7 +63497,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -63546,12 +63525,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ミコ・特別なプレゼント",
-                                    "リッカ・大好きなプレゼントセット➀",
-                                    "リッカ・大好きなプレゼントセット②",
-                                    "シーナ・大好きなプレゼントセット➀",
-                                    "シーナ・大好きなプレゼントセット②",
-                                    "ヘレナ・大好きなプレゼントセット➀"
+                                    "Miko | Special present",
+                                    "Ricca | Favorite present set 1",
+                                    "Ricca | Favorite Present Set 2",
+                                    "Sina | Favorite present set 1",
+                                    "Sina | Beloved Present Set 2",
+                                    "Helena | Favorite present set 1"
                                 ],
                                 -1,
                                 -1,
@@ -63624,7 +63603,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【着古したシャツ】を入手した！"
+                                "【Worn-out shirt】Obtained!"
                             ]
                         },
                         {
@@ -63641,7 +63620,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【穴あきパンツ】を入手した！"
+                                "【Hole-in-the-pants】Obtained!"
                             ]
                         },
                         {
@@ -63698,7 +63677,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -63801,7 +63780,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【プロテインジュース】を入手した！"
+                                "【Protein Juice】Obtained!"
                             ]
                         },
                         {
@@ -63818,7 +63797,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【香り袋】を入手した！"
+                                "【Fragrance Bag】Obtained!"
                             ]
                         },
                         {
@@ -63835,7 +63814,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【つけもの石】を入手した！"
+                                "【Pickled Stone】Obtained!"
                             ]
                         },
                         {
@@ -63852,7 +63831,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【ミックスジュース】を入手した！"
+                                "【Mixed Juice】Obtained!"
                             ]
                         },
                         {
@@ -63909,7 +63888,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -64002,7 +63981,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花柄スカーフ】を入手した！"
+                                "【Floral Scarf】Obtained!"
                             ]
                         },
                         {
@@ -64019,7 +63998,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【ぬいぐるみ】を入手した！"
+                                "【Stuffed animal】Obtained!"
                             ]
                         },
                         {
@@ -64036,7 +64015,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【みがき油】を入手した！"
+                                "【Migakiabura】Obtained!"
                             ]
                         },
                         {
@@ -64093,7 +64072,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -64196,7 +64175,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【肥料】を入手した！"
+                                "【Fertilizer】Obtained!"
                             ]
                         },
                         {
@@ -64213,7 +64192,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【石鹸】を入手した！"
+                                "【Soap】Obtained!"
                             ]
                         },
                         {
@@ -64230,7 +64209,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【木の実盛り合わせ】を入手した！"
+                                "【Nut Assortment】Obtained!"
                             ]
                         },
                         {
@@ -64247,7 +64226,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【繊細な香水】を入手した！"
+                                "【Delicate Perfume】Obtained!"
                             ]
                         },
                         {
@@ -64304,7 +64283,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -64407,7 +64386,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【琥珀色のアメ】を入手した！"
+                                "【Amber Candy】Obtained!"
                             ]
                         },
                         {
@@ -64424,7 +64403,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【便秘薬】を入手した！"
+                                "【Constipation Medicine】Obtained!"
                             ]
                         },
                         {
@@ -64441,7 +64420,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【化粧水】を入手した！"
+                                "【Toner】Obtained!"
                             ]
                         },
                         {
@@ -64458,7 +64437,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【ネックレス】を入手した！"
+                                "【Necklace】Obtained!"
                             ]
                         },
                         {
@@ -64515,7 +64494,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -64628,7 +64607,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【ハーブ茶】を入手した！"
+                                "【Herb Tea】Obtained!"
                             ]
                         },
                         {
@@ -64645,7 +64624,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【化粧水】を入手した！"
+                                "【Toner】Obtained!"
                             ]
                         },
                         {
@@ -64662,7 +64641,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【鎮痛薬】を入手した！"
+                                "【Painkillers】Obtained!"
                             ]
                         },
                         {
@@ -64679,7 +64658,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【アロマキャンドル】を入手した！"
+                                "【Aroma Candle】Obtained!"
                             ]
                         },
                         {
@@ -64696,7 +64675,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【ネックレス】を入手した！"
+                                "【Necklace】Obtained!"
                             ]
                         },
                         {
@@ -64753,7 +64732,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -64783,7 +64762,7 @@
                                 [
                                     "Helena Favorite Gift Set ②",
                                     "Miko's Favorite Gift Set ➀",
-                                    "ミコ・大好きなプレゼントセット②",
+                                    "Miko | Beloved Present Set 2",
                                     "Normal Potion/Recovery Potion: 30 each",
                                     "30 Return stones",
                                     "10 Bombs"
@@ -64879,7 +64858,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【気品のある香水】を入手した！"
+                                "【Elegant Perfume】Obtained!"
                             ]
                         },
                         {
@@ -64896,7 +64875,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花瓶】を入手した！"
+                                "【Hanakabin】Obtained!"
                             ]
                         },
                         {
@@ -64913,7 +64892,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花柄スカーフ】を入手した！"
+                                "【Floral Scarf】Obtained!"
                             ]
                         },
                         {
@@ -64930,7 +64909,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【バスソルト】を入手した！"
+                                "【Bath Salt】Obtained!"
                             ]
                         },
                         {
@@ -64987,7 +64966,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -65090,7 +65069,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【琥珀色のアメ】を入手した！"
+                                "【Amber Candy】Obtained!"
                             ]
                         },
                         {
@@ -65107,7 +65086,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【動物図鑑】を入手した！"
+                                "【Animal Encyclopedia】Obtained!"
                             ]
                         },
                         {
@@ -65124,7 +65103,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【スライム】を入手した！"
+                                "【Slime】Obtained!"
                             ]
                         },
                         {
@@ -65141,7 +65120,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【へんな形の実】を入手した！"
+                                "【Strange-shaped fruit】Obtained!"
                             ]
                         },
                         {
@@ -65198,7 +65177,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -65301,7 +65280,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【謎のジュース】を入手した！"
+                                "【Mysterious Juice】Obtained!"
                             ]
                         },
                         {
@@ -65318,7 +65297,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【魔物図鑑】を入手した！"
+                                "【Monster Encyclopedia】Obtained!"
                             ]
                         },
                         {
@@ -65335,7 +65314,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【ぬいぐるみ】を入手した！"
+                                "【Stuffed animal】Obtained!"
                             ]
                         },
                         {
@@ -65352,7 +65331,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【かたい棒】を入手した！"
+                                "【Hard Rod】Obtained!"
                             ]
                         },
                         {
@@ -65409,7 +65388,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -65492,7 +65471,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【ふつうの気付薬】を30個入手した！"
+                                "【Ordinary Awareness Medicine】Obtained 30!"
                             ]
                         },
                         {
@@ -65509,7 +65488,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【ふつうの回復薬】を30個入手した！"
+                                "【Normal Healing Potion】Obtained 30!"
                             ]
                         },
                         {
@@ -65566,7 +65545,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "引継ぎポイントが足りません！"
+                                "Not enough transfer points!"
                             ]
                         },
                         {
@@ -67346,7 +67325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "成就した”願い事”の数：\\V[489] 個"
+                                "Number of wishes fulfilled: \\V[489] pieces"
                             ]
                         },
                         {
@@ -67397,7 +67376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロイン達のレベル：だいたい \\V[488] Lv"
+                                "Heroines' levels: about \\V[488] Lv"
                             ]
                         },
                         {
@@ -67925,7 +67904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリアしたエンディング： \\V[490] ／ 16"
+                                "Cleared Endings: \\V[490] / 16"
                             ]
                         },
                         {
@@ -67963,7 +67942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【このゲームデータから引き継げる 引継ぎポイントは、\\V[491] Pt です】"
+                                "【The transfer points that can be carried over from this game data are \\V[491] Pt】"
                             ]
                         },
                         {
@@ -67987,7 +67966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【現在プレイしているゲームデータを引継ぎデータとして記録しますか？】"
+                                "【Do you want to save the current game data as transfer data?】"
                             ]
                         },
                         {
@@ -67995,8 +67974,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -68044,7 +68023,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【 \\V[492] Pt を引継ぎポイントとして新しいデータで遊ぶ際に使用できるようになりました】"
+                                "【\\V[492] Pt can now be used as an inheritance point when playing with new data】"
                             ]
                         },
                         {
